@@ -57,7 +57,7 @@ CV dalam bentuk pdf:
 **Teknologi:** SQL, Spreadsheet, Looker Studio
 
 ### Sales Dashboard 
-**Link Dashboard:** [Go to Looker Stodio](https://lookerstudio.google.com/reporting/2ffe9bff-4846-4aab-8f6e-3d910d8c7dd3)
+**Link Dashboard:** [Go to Salesforce](https://lookerstudio.google.com/reporting/2ffe9bff-4846-4aab-8f6e-3d910d8c7dd3)
 
 **Deskripsi:**  Project ini berfokus pada membuat dashboard sales dari sebuah coffeshop yang simple dan mudah dibaca
 
@@ -65,6 +65,14 @@ CV dalam bentuk pdf:
 
 **Teknologi:** Looker Studio
 
+### Salesforce Portofolio 
+**Link Dashboard:** [Go to Looker Stodio]([https://lookerstudio.google.com/reporting/2ffe9bff-4846-4aab-8f6e-3d910d8c7dd3](https://orgfarm-c71042b2de-dev-ed.develop.my.site.com/myportofolio/s))
+
+**Deskripsi:**  membuat website portofolio dengan menggunakan CRM salesforce
+
+**Skills:** Salesforce
+
+**Teknologi:** Salesforce
 
 
 ## Edukasi
