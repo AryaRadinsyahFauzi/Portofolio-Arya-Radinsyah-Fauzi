@@ -6,3 +6,17 @@ Selama studi saya, saya mengasah kemampuan saya dalam mengolah data kompleks dan
 
 Di waktu luang, saya senang menjelajahi alat dan teknik analisis data baru, dan selalu mencari peluang untuk memperluas pengetahuan dan keterampilan saya. Baik bekerja dalam tim maupun mandiri, saya terdorong oleh sensasi menemukan wawasan baru dan kepuasan menggunakan data untuk memecahkan masalah kompleks.
 
+CV dalam bentuk pdf:
+
+## Daftar Isi
+- Tentang
+- Portofolio
+  - SQL
+    - a
+    - b
+  - Microsoft Excel
+    - a
+  - Tableau
+  - Looker Studio
+  - Sales force
+    -a
