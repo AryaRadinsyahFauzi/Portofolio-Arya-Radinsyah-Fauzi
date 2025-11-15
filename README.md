@@ -9,7 +9,7 @@ Di waktu luang, saya senang menjelajahi alat dan teknik analisis data baru, dan 
 CV dalam bentuk pdf:
 
 ## Daftar Isi
-- Tentang
+- [Tentang](https://github.com/AryaRadinsyahFauzi/Portofolio-Arya-Radinsyah-Fauzi/blob/eb41a9f610edc5f751b634829f4220e18635ec27/CV_Arya%20Radinsyah%20Fauzi.pdf)
 - Portofolio
   - SQL
     - [Exploratory Data Analysis (EDA)-Warehause Store](https://github.com/AryaRadinsyahFauzi/Portofolio-Arya-Radinsyah-Fauzi/tree/1592d5e6734724131a45d98fd493e2ce10c51e32/Warehouse%20Store%20-%20EDA)
