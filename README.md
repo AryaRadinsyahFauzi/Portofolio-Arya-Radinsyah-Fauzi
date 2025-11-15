@@ -25,3 +25,12 @@ CV dalam bentuk pdf:
 - [Sertifikat](https://drive.google.com/drive/folders/1elT3qfUAji8y7SfgxXfCDJcTV-P-qgGk?usp=sharing)
 
 ## Proyek Portofolio
+### Exploratory Data Analysis (EDA) - Warehause Stores
+
+**Code:**
+
+**Deskripsi:** Project ini berfokus pada Exploratory Data Analysis (EDA) yang mencakup database exploration, dimension exploration, date exploration, measures exploration, magnitude, dan rangking analysis
+
+**Skills:** Data Cleaning, Data Analysis
+
+**Teknologi:** SQL
