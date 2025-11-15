@@ -1,4 +1,4 @@
-# Arya Radinsyah Fauzi - Portofolio Analisis Data
+# Arya Radinsyah Fauzi - Portofolio
 ## About Me
 Hai, saya Arya Radinsyah Fauzi memeliki latar belakang analitik di bidang Ekonomi.Saya telah mengembangkan fondasi yang kuat di bidang Ekonomi dan Data untuk menggunakan data guna mengungkap wawasan yang bermakna. Saya bersemangat untuk menerapkan keahlian teknis dan analitis.
 
