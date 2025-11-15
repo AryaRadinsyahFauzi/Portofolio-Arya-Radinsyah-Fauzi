@@ -15,7 +15,8 @@ CV dalam bentuk pdf:
     - [Exploratory Data Analysis (EDA)-Warehause Store](https://github.com/AryaRadinsyahFauzi/Portofolio-Arya-Radinsyah-Fauzi/tree/1592d5e6734724131a45d98fd493e2ce10c51e32/Warehouse%20Store%20-%20EDA)
     - [Bike Stores](https://github.com/AryaRadinsyahFauzi/Portofolio-Arya-Radinsyah-Fauzi/tree/7cb1e74cf47298ccf728ebe59438a859077a4709/BikeStores)
   - Microsoft Excel
-    - a
+    Link Download
+    - [Excecutive Dashboard Bike Stores](https://drive.google.com/drive/folders/12kn3MFAv9b3kpKZB1RHl_2Ts-zSovIwN?usp=sharing)
   - [Tableau](https://public.tableau.com/app/profile/arya.radinsyah.fauzi/vizzes)
   - Looker Studio
     - [Sales Dashboard](https://lookerstudio.google.com/reporting/2ffe9bff-4846-4aab-8f6e-3d910d8c7dd3)
