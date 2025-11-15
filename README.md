@@ -20,3 +20,6 @@ CV dalam bentuk pdf:
   - Looker Studio
   - Sales force
     -a
+- Sertifikat
+
+## Proyek Portofolio
