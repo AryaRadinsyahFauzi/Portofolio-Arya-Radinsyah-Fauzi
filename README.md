@@ -13,7 +13,7 @@ CV dalam bentuk pdf:
 - Portofolio
   - SQL
     - [Exploratory Data Analysis (EDA)-Warehause Store](https://github.com/AryaRadinsyahFauzi/Portofolio-Arya-Radinsyah-Fauzi/tree/1592d5e6734724131a45d98fd493e2ce10c51e32/Warehouse%20Store%20-%20EDA)
-    - b
+    - [Bike Stores](https://github.com/AryaRadinsyahFauzi/Portofolio-Arya-Radinsyah-Fauzi/tree/7cb1e74cf47298ccf728ebe59438a859077a4709/BikeStores)
   - Microsoft Excel
     - a
   - Tableau
