@@ -16,10 +16,10 @@ CV dalam bentuk pdf:
     - [Bike Stores](https://github.com/AryaRadinsyahFauzi/Portofolio-Arya-Radinsyah-Fauzi/tree/7cb1e74cf47298ccf728ebe59438a859077a4709/BikeStores)
   - Microsoft Excel
     - a
-  - Tableau
+  - [Tableau](https://public.tableau.com/app/profile/arya.radinsyah.fauzi/vizzes)
   - Looker Studio
-  - Sales force
-    -a
-- Sertifikat
+  - Salesforce
+    - [Salesforce Portofolio](https://orgfarm-c71042b2de-dev-ed.develop.my.site.com/myportofolio/s) 
+- [Sertifikat](https://drive.google.com/drive/folders/1elT3qfUAji8y7SfgxXfCDJcTV-P-qgGk?usp=sharing)
 
 ## Proyek Portofolio
