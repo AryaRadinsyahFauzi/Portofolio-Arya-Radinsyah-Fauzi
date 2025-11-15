@@ -18,6 +18,7 @@ CV dalam bentuk pdf:
     - a
   - [Tableau](https://public.tableau.com/app/profile/arya.radinsyah.fauzi/vizzes)
   - Looker Studio
+    - [Sales Dashboard](https://lookerstudio.google.com/reporting/2ffe9bff-4846-4aab-8f6e-3d910d8c7dd3)
   - Salesforce
     - [Salesforce Portofolio](https://orgfarm-c71042b2de-dev-ed.develop.my.site.com/myportofolio/s) 
 - [Sertifikat](https://drive.google.com/drive/folders/1elT3qfUAji8y7SfgxXfCDJcTV-P-qgGk?usp=sharing)
